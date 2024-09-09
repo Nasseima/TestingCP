@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "description": "huhhh",
+    "place": {
+      "id": 101,
+      "country": "USA",
+      "city": "New York",
+      "description": "A bustling city known for its landmarks and attractions."
+    }
+  }
+]
